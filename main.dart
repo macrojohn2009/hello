@@ -8,6 +8,6 @@ class MyApp extends StatelessWidget
   @override
   Widget build(BuildContext context)
   {
-    return Text("hello");
+    return Center(child:Text("hello"));
   }
 }
